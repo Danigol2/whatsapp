@@ -1,0 +1,28 @@
+.custom-fab {
+    background-color: white !important;
+    color: #005000 !important;
+    box-shadow: none !important;
+    border-radius: 50% !important;
+    transition: background-color 0.3s ease, box-shadow 0.3s ease !important;
+}
+
+.chat-header .custom-fab {
+  background-color: #f0f0f0 !important;
+  margin-left: auto !important;
+
+}
+.header-buttons {
+  display: flex;
+  gap: 10px; 
+  margin-left: auto; 
+}
+
+.custom-fab:hover {
+  background-color: #e6f7e6 !important; 
+  box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.1) !important;
+}
+
+.custom-fab:active {
+  background-color: #cce5cc !important; 
+  box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.2) !important;
+}

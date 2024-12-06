@@ -1,0 +1,25 @@
+[
+  {
+    "id": 1,
+    "name": "Paco Aguilera",
+    "lastMessage": "Hola!",
+    "avatar": "https://robohash.org/paco"
+  },
+  {
+    "id": 2,
+    "name": "Abraham",
+    "lastMessage": "Como estás?"
+  },
+  {
+    "id": 3,
+    "name": "Grupo DAW",
+    "lastMessage": "Este es el grupo de la clase!",
+    "avatar": "https://robohash.org/grupo"
+  },
+  {
+    "id": 4,
+    "name": "Paloma",
+    "lastMessage": "Hola a tod@s!",
+    "avatar": "https://robohash.org/paloma"
+  }
+]
